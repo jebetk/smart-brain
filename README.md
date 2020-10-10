@@ -1,6 +1,6 @@
 # smart-brain
 
-This project uses HTML, CSS, and Javascript + React for the front-end and a NodeJs/Express + PostgreSQL server and database configuration for the back-end. It pings the [Clarifai API](https://www.clarifai.com/) to find faces in images with a bounding box around the faces that it detects.
+This project uses HTML, CSS, and Javascript + React for the front-end and a NodeJs/Express + PostgreSQL server and database configuration for the back-end. It pings the [Clarifai API](https://www.clarifai.com/) to find faces in images and returns bounding box location coordinates.
 
 This repo contains the front-end portion of the application. The API can be found [here](https://github.com/jebetk/smart-brain-api)
 
