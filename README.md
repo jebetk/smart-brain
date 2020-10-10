@@ -1,3 +1,7 @@
+# smart-brain
+
+This project uses HTML, CSS, and Javascript + React for the front-end and a NodeJs/Express + PostgreSQL server and database configuration for the back-end. It pings the [Clarifai API](https://www.clarifai.com/) for face detection in images with a bounding box around the faces that it detects.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
